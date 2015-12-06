@@ -1,6 +1,6 @@
 ...
 
-Bienvenido al tutorial de Tidal, Tidal es un mini lenguaje de progaramación para explorar 
+Bienvenido al tutorial de Tidal, Tidal es un mini lenguaje de programación para explorar 
 patrones, diseñado para ser usado durante interpretaciones de código en vivo.
 En este tutorial, pasaremos por diferentes niveles de abstracción, empezando con sonidos
 y filtros, luego secuencias de sonidos y filtros, llegando así a las funciones para manipular
